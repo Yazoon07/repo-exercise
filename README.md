@@ -1,2 +1,2 @@
 # final-project
-Final Project
+Coursera Final Project
